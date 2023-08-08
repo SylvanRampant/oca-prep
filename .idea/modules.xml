@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" filepath="$PROJECT_DIR$/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DefaultInitialization/DefaultInitialization.iml" filepath="$PROJECT_DIR$/DefaultInitialization/DefaultInitialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderingElements/OrderingElements.iml" filepath="$PROJECT_DIR$/OrderingElements/OrderingElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimitiveWrapperTypes/PrimitiveWrapperTypes.iml" filepath="$PROJECT_DIR$/PrimitiveWrapperTypes/PrimitiveWrapperTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnderstandingNull/UnderstandingNull.iml" filepath="$PROJECT_DIR$/UnderstandingNull/UnderstandingNull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableScope/VariableScope.iml" filepath="$PROJECT_DIR$/VariableScope/VariableScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oca-prep.iml" filepath="$PROJECT_DIR$/.idea/oca-prep.iml" />
+    </modules>
+  </component>
+</project>

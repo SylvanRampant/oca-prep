@@ -191,3 +191,182 @@ G. none of the above
 
 My answer: B, E
 > Correct Answer: B, E
+ 
+Q9: What is the data type of x+y?
+
+    double x = 44.25;
+    float y = 3.35; // needs F
+
+My answer: double
+> Correct Answer: Does not compile
+
+Q10: What is the data type of x*y?
+
+    short x = 14;
+    short y = 6;
+
+My answer: int
+> Correct Answer: int
+
+Q11: What is the data type of x*y/z?
+
+    short x = 14;
+    float y = 13f;
+    double z = 30;
+
+My answer: double
+> Correct Answer: double
+
+Q12: what is the output of this code?
+
+    int e =3;
+    int f = ++e * 5 /e-- + --e;
+        // 4 * 5 / 4 + 2;
+    sout(e + " " + f);
+
+My answer: e = 2 , f = 7
+> Correct Answer: e = 2 , f = 7
+
+ Q113: what is the output of this code?
+
+    int g = 6;
+    int h = 2;
+    int i = ++h + --g * 3 +2 * g++ - h-- % --g;
+        //3 + 5 * 3 + 2 * 5 - 3 % 5;
+        //3 + 15 + 10 - 3;
+        //28
+        
+
+My answer: h =2 g = 5 I = 25
+> Correct Answer: h =2 g = 5 I = 25
+
+Q14: Which of the following java operators can be used with boolean variables (choose all that apply)
+
+A. ==
+
+B. +
+
+C. --
+
+D. !
+
+E. %
+
+F. <=
+
+My answer: A, D
+
+> Correct Answer: A, D
+
+Q15: What datatypes will allow the folowing code to compile (choose all that apply)
+
+    byte x = 5;
+    byte y = 10;
+    ____ z = x+y;
+
+A. int
+
+B. long
+
+C. boolean
+
+D. double
+
+E. short
+
+F. byte
+
+My answer: A, B, D
+
+> Correct Answer: A, B, D
+
+Q16: What change would allow the following code snippet to compile? (choose all that apply)
+
+    3.  long x = 10;
+    4.  int y = 2 * x;
+
+A. No Change, it compiles as is
+
+B. Cast x on line 4 to int
+
+C. Change the data type of x on line 3 to short
+
+D. Cast 2*x on line 4 to int 
+
+E. Change the data type of y on line 4 to short.
+
+F. Change the data type of y on line 4 to long.
+
+My answer: B, C, D, F
+
+> Correct Answer: B, C, D, F
+
+Q17: What change would allow the following code snippet to compile? (choose all that apply)
+
+    3.  boolean x = true, z = true;
+    4.  int y = 20;
+    5.  x=(y!=10) ^(z=false);
+    6.  sout(x + " " + y + " " + z);
+
+A. true, 10, true
+
+B. true, 20, false
+
+C. false, 20, true
+
+D. false, 20, false
+
+E. false, 20, true
+
+F. The code will not compile because of line 5
+
+My answer: B
+
+> Correct Answer: B
+
+Q18: What is the output of the following code?
+
+    1.  public class ArithmeticSample{
+    2.  public static void main(String[] args){
+    3.  int x = 5*4%3;
+    4.  sout(x);
+    5.  }}
+
+A. 2
+
+B. 3
+
+C. 5
+
+D. 6
+
+E. Code will not compile because of line 3
+
+F. The code will not compile because of line 5
+
+My answer: A
+
+> Correct Answer: A
+
+Q19: What is the output of the following code?
+
+    3.  int c = 7;
+    4.  int result = 4;
+    5.  result += ++c;
+    6.  sout(result);
+
+A. 8
+
+B. 11
+
+C. 12
+
+D. 15
+
+E. 16
+
+F. Code will not compile because of line 5
+
+My answer: C
+
+> Correct Answer: C

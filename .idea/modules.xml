@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" filepath="$PROJECT_DIR$/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DefaultInitialization/DefaultInitialization.iml" filepath="$PROJECT_DIR$/DefaultInitialization/DefaultInitialization.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OrderingElements/OrderingElements.iml" filepath="$PROJECT_DIR$/OrderingElements/OrderingElements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PrimitiveWrapperTypes/PrimitiveWrapperTypes.iml" filepath="$PROJECT_DIR$/PrimitiveWrapperTypes/PrimitiveWrapperTypes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UnderstandingNull/UnderstandingNull.iml" filepath="$PROJECT_DIR$/UnderstandingNull/UnderstandingNull.iml" />
-      <module fileurl="file://$PROJECT_DIR$/VariableScope/VariableScope.iml" filepath="$PROJECT_DIR$/VariableScope/VariableScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/ArithmaticOperators/ArithmaticOperators.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/ArithmaticOperators/ArithmaticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/AssignmentOperators/AssignmentOperators.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/AssignmentOperators/AssignmentOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/CharacterArithmatic/CharacterArithmatic.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/CharacterArithmatic/CharacterArithmatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/CompoundAssignmentOperators/CompoundAssignmentOperators.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/CompoundAssignmentOperators/CompoundAssignmentOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/ConditionalOperators/ConditionalOperators.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/ConditionalOperators/ConditionalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" filepath="$PROJECT_DIR$/Chapter 1/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/DefaultInitialization/DefaultInitialization.iml" filepath="$PROJECT_DIR$/Chapter 1/DefaultInitialization/DefaultInitialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/EqualityOperators/EqualityOperators.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/EqualityOperators/EqualityOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3 Basic Control Flow/IfElseStatement/IfElseStatement.iml" filepath="$PROJECT_DIR$/Chapter 3 Basic Control Flow/IfElseStatement/IfElseStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/NumericPromotion/NumericPromotion.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/NumericPromotion/NumericPromotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/OrderingElements/OrderingElements.iml" filepath="$PROJECT_DIR$/Chapter 1/OrderingElements/OrderingElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/PrimitiveWrapperTypes/PrimitiveWrapperTypes.iml" filepath="$PROJECT_DIR$/Chapter 1/PrimitiveWrapperTypes/PrimitiveWrapperTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/RelationalOperators/RelationalOperators.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/RelationalOperators/RelationalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3 Basic Control Flow/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/Chapter 3 Basic Control Flow/SwitchStatement/SwitchStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 3 Basic Control Flow/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/Chapter 3 Basic Control Flow/TernaryOperator/TernaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/UnaryOperator/UnaryOperator.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/UnaryOperator/UnaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2 Operators/UnderstandingEqaulsOperatorAndMethod/UnderstandingEqaulsOperatorAndMethod.iml" filepath="$PROJECT_DIR$/Chapter 2 Operators/UnderstandingEqaulsOperatorAndMethod/UnderstandingEqaulsOperatorAndMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/UnderstandingNull/UnderstandingNull.iml" filepath="$PROJECT_DIR$/Chapter 1/UnderstandingNull/UnderstandingNull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/VariableScope/VariableScope.iml" filepath="$PROJECT_DIR$/Chapter 1/VariableScope/VariableScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oca-prep.iml" filepath="$PROJECT_DIR$/.idea/oca-prep.iml" />
     </modules>
   </component>
